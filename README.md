@@ -24,21 +24,21 @@
 ## 邀请码互助
 
 
-- [邀请码使用规范](https://github.com/zhaozhanzhan/jd_docker/blob/master/githubAction.md#互助码类环境变量)(仅限云端)
+- [邀请码使用规范](https://github.com/roewesu/jd_docker/blob/master/githubAction.md#互助码类环境变量)(仅限云端)
 
 ## 使用方法
 
 ### 1. Docker
 
-- [部署方法](https://github.com/zhaozhanzhan/jd_docker/blob/master/docker/README.md)
+- [部署方法](https://github.com/roewesu/jd_docker/blob/master/docker/README.md)
 
-- [环境变量集合](https://github.com/zhaozhanzhan/jd_docker/blob/master/githubAction.md)
+- [环境变量集合](https://github.com/roewesu/jd_docker/blob/master/githubAction.md)
  
 - 获取京东cookie教程可参考：
   
-  + [浏览器获取京东cookie教程](https://github.com/zhaozhanzhan/jd_docker/blob/master/backUp/GetJdCookie.md)
+  + [浏览器获取京东cookie教程](https://github.com/roewesu/jd_docker/blob/master/backUp/GetJdCookie.md)
     
-  + [插件获取京东cookie教程](https://github.com/zhaozhanzhan/jd_docker/blob/master/backUp/GetJdCookie2.md)
+  + [插件获取京东cookie教程](https://github.com/roewesu/jd_docker/blob/master/backUp/GetJdCookie2.md)
     
   + 京东APP扫码获取cookie(执行`node getJDCookie.js`即可)
 
